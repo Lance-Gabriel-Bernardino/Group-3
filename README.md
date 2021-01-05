@@ -1,6 +1,6 @@
 # GROUP-3
-Bautista, Rovic.
-Bernardino, Lance.
+Team Leader : Bernardino , Lance
+Members: Bautista, Rovic.
 Diño, Allanjay.
 Jazmin, Jarry.
 Maquiling, Ralph.
